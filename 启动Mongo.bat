@@ -1,0 +1,1 @@
+mongod.exe --config "E:\Coding\react\app\server\db\etc\mongo.conf"
